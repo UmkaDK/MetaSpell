@@ -2,7 +2,7 @@ MetaSpell
 =========
 
 **Version:** 2.0.79  
-**Status:** Fully functional, but missing tests.
+**Status:** Archived (Fully functional, but missing tests)
 
 *   [NAME](#NAME)
 *   [SYNOPSIS](#SYNOPSIS)
