@@ -284,15 +284,3 @@ This module has no internal methods.
 For further information about all posible options used by Aspell, their default values and how they can be set please see aspell manual page or project's webpage. (http://aspell.sourceforge.net/man-html/)
 
 Text::Aspell, Text::SpellCheck, Text::SpellChecker
-
-## DONATIONS
-
-This module is 100% free and is distributed under the terms of the MIT license. You're welcome to use it for private or commercial projects and to generally do whatever you want with it.
-
-If you found this module useful, would like to support its further development, or you are just feeling generous, then your contribution will be greatly appreciated!
-
-<p align="center">
-  <a href="https://paypal.me/UmkaDK"><img src="https://img.shields.io/badge/paypal-me-blue.svg?colorB=0070ba&logo=paypal" alt="PayPal.Me"></a>
-  &nbsp;
-  <a href="https://commerce.coinbase.com/checkout/65cb49bf-3b08-41df-97fd-df8a69705b3d"><img src="https://img.shields.io/badge/coinbase-donate-gold.svg?colorB=ff8e00&logo=bitcoin" alt="Donate via Coinbase"></a>
-</p>
