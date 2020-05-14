@@ -1,8 +1,8 @@
 MetaSpell
 =========
 
+**Status:** ARCHIVED - Fully functional, but missing tests  
 **Version:** 2.0.79  
-**Status:** Archived (Fully functional, but missing tests)
 
 *   [NAME](#NAME)
 *   [SYNOPSIS](#SYNOPSIS)
